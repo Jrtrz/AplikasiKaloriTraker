@@ -37,3 +37,5 @@ Aplikasi Kalori Tracker membantu pengguna memantau asupan kalori makanan sehingg
 6. Data hasil perhitungan akan tersimpan pada menu **Riwayat Konsumsi**.
 7. Pengguna dapat melihat kembali seluruh riwayat konsumsi kapan saja.
 
+LINK DEMO : https://drive.google.com/file/d/143BoIMOWKI8WLmFWLzypEQgw5PMutgVS/view?usp=sharing
+
